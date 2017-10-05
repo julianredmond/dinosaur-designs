@@ -7,6 +7,7 @@ img {
   width: 100%;
 }
 h1 {
+  font-family: Patua One;
   color: #5d8432;
   text-transform: uppercase;
   }
@@ -15,8 +16,17 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
+
 nav {
+  font-family: Patua One;
   font-weight: bold;
   font-size: 1.125rem;
+}
 
+a,
+a: link {
+  color: #793284;
+}
+a: hover {
+  color: #b42885;
 }
